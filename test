@@ -1,6 +1,6 @@
 {} /* Background */
 .app {
-    background-image: url("http://i.imgur.com/Be5jpVs.png");
+    background-image: url("http://i.imgur.com/pWLfi3M.jpg");
     background-size: cover !important;
     background-position: center;
 }
